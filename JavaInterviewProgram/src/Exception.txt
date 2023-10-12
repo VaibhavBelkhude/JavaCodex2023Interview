@@ -1,0 +1,35 @@
+Explain Checked and Unchecked Exceptions in Java. Provide examples of each.
+
+Describe the difference between throw and throws in Java.
+
+What is the purpose of the finally block in exception handling? Can you give an example where it's crucial?
+
+What are custom exceptions, and when would you create one? Provide an example.
+
+Explain the concept of exception chaining in Java. How can it be achieved, and why is it useful?
+
+What is the difference between the catch block and a multi-catch block in Java 7+? When would you use multi-catch blocks?
+
+Discuss the concept of exception propagation in Java. How does it work, and when is it used?
+
+Explain how Java 8's Optional class can be used to handle exceptions in a more functional way. Provide an example.
+
+What is the try-with-resources statement introduced in Java 7, and how does it simplify resource management and exception handling?
+
+How does exception handling work in a multi-threaded environment? What are the challenges, and how can they be mitigated?
+
+Discuss the best practices for logging and handling exceptions in production applications. What tools and frameworks do you use for this purpose?
+
+Explain the concept of "Exception Suppression" introduced in Java 7. How can it be useful, and when should it be used?
+
+What is the difference between using System.exit() and throwing an exception to terminate a Java application? When is each approach appropriate?
+
+Describe the principles of fault tolerance and error recovery in distributed systems. How can you design systems to handle exceptions gracefully in a distributed environment?
+
+Discuss the challenges and strategies for handling and recovering from exceptions in long-running batch processes or data pipelines.
+
+How do you handle and recover from OutOfMemoryError and StackOverflowError in a Java application?
+
+Explain the concept of "Exception Anti-patterns." Can you provide examples of common mistakes made in exception handling and how to avoid them?
+
+Discuss the impact of exception handling on performance in Java applications. What are some techniques to optimize exception handling for performance-critical code?
